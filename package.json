@@ -1,0 +1,28 @@
+{
+  "name": "quick-api-messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VNBot-Developers/quick-api-messenger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VNBot-Developers/quick-api-messenger/issues"
+  },
+  "homepage": "https://github.com/VNBot-Developers/quick-api-messenger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "facebook-chat-api": "^1.6.0",
+    "json_encode": "^0.1.0",
+    "md5": "^2.2.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
